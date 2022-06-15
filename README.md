@@ -1,5 +1,5 @@
 
-<a href="http://game.s2art.tv/status"><img width="400" src="http://game.s2art.tv/status" /></a>
+<a href="http://game.s2art.tv/status"><img width="400" src="http://game.s2art.tv/status?=1" /></a>
 --  
 <a href="http://game.s2art.tv/play.php?key=a">A</a>   
 <a href="http://game.s2art.tv/play.php?key=b">B</a>  

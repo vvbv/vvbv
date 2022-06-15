@@ -1,5 +1,5 @@
 
-<a href="http://game.s2art.tv/o.png?t=1"><img width="400" src="http://104.131.62.59/o.png" /></a>
+<a href="http://game.s2art.tv/o.png?t=1"><img width="400" src="http://game.s2art.tv/o.png" /></a>
 --  
 <a href="http://game.s2art.tv/play.php?key=a">A</a>   
 <a href="http://game.s2art.tv/play.php?key=b">B</a>  

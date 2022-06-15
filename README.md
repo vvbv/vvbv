@@ -2,11 +2,12 @@
 
 <a href="http://game.s2art.tv/status"><img width="400" src="http://game.s2art.tv/status?=6" /></a>
 --  
-<a href="http://game.s2art.tv/play.php?key=a"><img width="50" src="http://game.s2art.tv/A.png" /></a>   
-<a href="http://game.s2art.tv/play.php?key=b">B</a>  
-<a href="http://game.s2art.tv/play.php?key=up">UP</a>  
-<a href="http://game.s2art.tv/play.php?key=down">Down</a>  
-<a href="http://game.s2art.tv/play.php?key=left">Left</a>  
-<a href="http://game.s2art.tv/play.php?key=right">Right</a>  
-<a href="http://game.s2art.tv/play.php?key=l">L</a>  
-<a href="http://game.s2art.tv/play.php?key=r">R</a>
+
+<img width="30" src="http://game.s2art.tv/blank.png" /><a href="http://game.s2art.tv/play.php?key=l"><img width="30" src="http://game.s2art.tv/L.png" /></a><img width="30" src="http://game.s2art.tv/blank.png" /><img width="30" src="http://game.s2art.tv/blank.png" /><img width="30" src="http://game.s2art.tv/blank.png" /><img width="30" src="http://game.s2art.tv/blank.png" /><img width="30" src="http://game.s2art.tv/blank.png" /><img width="30" src="http://game.s2art.tv/blank.png" /><img width="30" src="http://game.s2art.tv/blank.png" /><img width="30" src="http://game.s2art.tv/blank.png" /><img width="30" src="http://game.s2art.tv/blank.png" /><a href="http://game.s2art.tv/play.php?key=r"><img width="30" src="http://game.s2art.tv/R.png" /></a>  
+
+<img width="30" src="http://game.s2art.tv/blank.png" /><img width="30" src="http://game.s2art.tv/blank.png" /><a href="http://game.s2art.tv/play.php?key=up"><img width="30" src="http://game.s2art.tv/up.png" /></a>  
+<img width="30" src="http://game.s2art.tv/blank.png" /><a href="http://game.s2art.tv/play.php?key=left"><img width="30" src="http://game.s2art.tv/left.png" /></a><img width="30" src="http://game.s2art.tv/blank.png" /><a href="http://game.s2art.tv/play.php?key=right"><img width="30" src="http://game.s2art.tv/right.png" /></a><img width="30" src="http://game.s2art.tv/blank.png" /><img width="30" src="http://game.s2art.tv/blank.png" /><img width="30" src="http://game.s2art.tv/blank.png" /><img width="30" src="http://game.s2art.tv/blank.png" /><img width="30" src="http://game.s2art.tv/blank.png" /> 
+<a href="http://game.s2art.tv/play.php?key=b"><img width="30" src="http://game.s2art.tv/B.png" /></a><a href="http://game.s2art.tv/play.php?key=a"> <img width="30" src="http://game.s2art.tv/A.png" /></a>     
+<img width="30" src="http://game.s2art.tv/blank.png" /><img width="30" src="http://game.s2art.tv/blank.png" /><a href="http://game.s2art.tv/play.php?key=down"><img width="30" src="http://game.s2art.tv/down.png" /></a>  
+  
+ 
